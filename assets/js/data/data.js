@@ -1,7 +1,7 @@
 const db = [
   {
     id: 1,
-    nombre: 'Blusa Estampada Negra',
+    nombre: 'Blusa Negra',
     descripcion: 'Talla 10',
     precio: 45.00,
     imagen: './assets/img/blusaminnie.png',
@@ -55,7 +55,7 @@ const db = [
   },
   {
     id: 7,
-    nombre: 'Blusa Estampada Rosada ',
+    nombre: 'Camiseta ',
     descripcion: 'Talla 10',
     precio: 64.00,
     imagen: './assets/img/blusarosaminnie.png',
